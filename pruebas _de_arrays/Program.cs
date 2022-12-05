@@ -75,6 +75,7 @@ foreach(string i in MarcaCarros)
     {
         Console.WriteLine("bueno elija otro señor "+cliente);
         Console.Clear();//esto limpia la consola y sigue el bucle normal
+        Console.WriteLine("3 horas despues");
     }
         if (LaMarca == 8)
     {
